@@ -1,0 +1,9 @@
+{
+  "name": "npm-workspace-cmd-win",
+  "license": "UNLICENSED",
+  "private": true,
+  "workspaces": [
+    "pkgs/cli",
+    "pkgs/use-cli"
+  ]
+}

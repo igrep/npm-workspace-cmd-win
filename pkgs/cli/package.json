@@ -1,0 +1,22 @@
+{
+  "name": "@npm-workspace-cmd-win/cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "npm-workspace-cmd-win": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igrep/npm-workspace-cmd-win.git"
+  },
+  "author": "YAMAMOTO Yuji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igrep/npm-workspace-cmd-win/issues"
+  },
+  "homepage": "https://github.com/igrep/npm-workspace-cmd-win#readme",
+  "description": ""
+}
